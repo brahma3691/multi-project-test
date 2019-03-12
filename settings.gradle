@@ -1,0 +1,8 @@
+rootProject.name = 'multi-project-test'
+
+include 'module1:module1a:module1a1'
+include 'module1:module1a:module1a2'
+include 'module1:module1b:module1b1'
+include 'module1:module1b:module1b2'
+include 'module2:module2b'
+
